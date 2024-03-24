@@ -120,7 +120,7 @@ a:hover {
   max-height: 0;
   overflow: hidden;
   transition: all 0.3 ease-in-out;
-  background-color: #808080;
+  background-color:whitesmoke;
 }
 
 .menu-links a {
