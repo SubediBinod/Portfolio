@@ -5,7 +5,7 @@ function toggleMenu() {
   icon.classList.toggle("open");
 }
 var typed = new Typed(".typing-2", {
-  strings: [" 👨‍💻 A Tech Enthusiast ","👨‍🎓 An Computer Engineering student ", " 🚀 Aspiring Web-Developer","🎨 UI Designer"],
+  strings: [" 👨‍💻 A Tech Enthusiast ","👨‍🎓 A Computer Engineering student ", " 🚀 Aspiring Web-Developer","🎨 UI Designer"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
